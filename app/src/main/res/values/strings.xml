@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Toolbox</string>
+
+    <string name="location_button_desc">get current location</string>
+    <string name="notes_button_desc">display and modify notes</string>
+
+    <string name="refresh_location_btn_desc">refresh current location</string>
+    <string name="access_location_allowed">OK, I\'m trying to get your location!</string>
+    <string name="access_location_denied">Oops! APP cannot work without accessing your location!</string>
+    <string name="need_gps">You need to turn on gps first.</string>
+    <string name="location_unknown">Unknown</string>
+    <string name="location_error">Something went wrong while trying to access your location!</string>
+    <string name="location_info">
+        latitude: %1$f%2$c\n\nlongitude: %3$f%4$c\n
+    </string>
+
+    <string name="note_title_label">Title</string>
+    <string name="note_title_edittext_hint">Enter a title for the note</string>
+    <string name="note_date_edittext_hint">Enter a date for the note</string>
+    <string name="note_content_edittext_hint">Enter the content of the note</string>
+</resources>
